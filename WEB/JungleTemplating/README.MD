@@ -32,7 +32,7 @@
  
 Le site possède une unique fonctionnalité: 
   - Permettre de renter un nom
-  - Retourner Hi, nom
+  - Retourner: Hi, nom
 
 Je pense tout de suite a une SSTI est de fait si on donne comme nom {{1+1}} le site nous retourne Hi, 2
 
