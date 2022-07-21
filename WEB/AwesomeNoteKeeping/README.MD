@@ -134,7 +134,7 @@ le paramètre note_title est égal à flag alors il est remplacé par du vide. P
 
 
 
-**Description**
+**Exploit**
 
 Pour exploiter le code il suffit d'essayer d'enregistrer une note nommée "flflflagagag" car dans le premier str_replace
 il y aura une seule occurence de flag puis dans le deuxieme str_replace étant donné que on a enlevé le "flag" à
