@@ -125,8 +125,8 @@ tout simplement un fichier index.php.bak qui contient le code source de la page.
 
 N'étant pas très familier avec le PHP je lis le code pendant 10 minutes et je finit pas comprendre comment il marche.
 Il vérifie d'abord que un paramètre note_title est donnée dans l'url. La longueur du titre et le contenu de la note sont
-aussi limités. Le programme fait en sorte que lorsqu'une note est crée elle est enregistré dans un fichier txt avec son 
-nom. Si on essaye d'enregister une note qui existe deja alors elle lit le contenu de la note mais si
+aussi limités. Le programme fait en sorte que lorsqu'une note est crée elle est enregistré dans un fichier txt avec comme nom 
+le paramètre note_title dans l'url. Si on essaye d'enregister une note qui existe deja alors elle lit le contenu de la note mais si
 le paramètre note_title est égal à flag alors il est remplacé par du vide. Puis il y a un deuxième str_replace
  qui remplace encore une fois "flag" par du vide. La dernière fonction permet de lire des notes a partir de leur nom mais
  elle nous interesse moins par ce que elle lit directement le paramètre note_title sans filtre et ne le modifie pas.
