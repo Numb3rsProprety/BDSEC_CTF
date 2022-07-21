@@ -7,12 +7,12 @@ CTF Jeopardy donc plusieurs catégories (WEB, CRYPTO et etc )
 - Temps: 24h (07/20/22 17h - 07/21/22 17h (UTC+2) )
 - Maximum par équipe : 5
 
-## Results
+## Resultats
 ![Screenshot](Stats.png) Team Subuthax - 27/542
 ![Screenshot](Scoreboard.png)
 
 ## Challenges
-- [x] -> Done  
+- [x] -> Done
 - [ ] -> Not Done
 
 - Steganography
