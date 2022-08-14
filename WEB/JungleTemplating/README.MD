@@ -22,9 +22,7 @@
 **Note**
 -J'ai raté le first blood de ce challenge de peu en le flaggant en 4ème :( 
 
-**Attachments**
 
-- [`capture-reseau.pcapng`](https://drive.google.com/drive/folders/1MMs6CiIiBnEYUCaJyMGQqijCeW4oVdZj)
 
 ### :book: Introduction
 
